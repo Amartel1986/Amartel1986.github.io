@@ -1,0 +1,12 @@
+#multiline-encoded, #multiline-decoded {
+  width:100%;
+  height:300px;
+}
+
+textarea {
+  width:100%;
+  height:100%;
+  box-sizing: border-box;         /* For IE and modern versions of Chrome */
+  -moz-box-sizing: border-box;    /* For Firefox                          */
+  -webkit-box-sizing: border-box; /* For Safari                           */
+}
