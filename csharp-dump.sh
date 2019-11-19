@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 export DOTNET_SDK_VERSION=3.0.100
 wget -O dotnet.tar.gz https://dotnetcli.blob.core.windows.net/dotnet/Sdk/$DOTNET_SDK_VERSION/dotnet-sdk-$DOTNET_SDK_VERSION-linux-musl-x64.tar.gz
